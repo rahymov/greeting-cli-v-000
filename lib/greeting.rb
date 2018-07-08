@@ -1,2 +1,2 @@
 # code the #greeting method here!
-puts ""
+def greeting(naem)
